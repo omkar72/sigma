@@ -1,4 +1,4 @@
-title: CLR DLL Loaded Via scripting applications
+title: CLR DLL Loaded via scripting applications
 id: 4508a70e-97ef-4300-b62b-ff27992990ea
 status: experimental
 description: Detects CLR DLL being loaded by an scripting applications
